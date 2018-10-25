@@ -1,0 +1,30 @@
+C:\Users\EB-IT-Hp\Documents\Visual Studio 2010\Projects\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EB-IT-Hp\Documents\Visual Studio 2010\Projects\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales_Automation_Distributor_System.frm_Login.resources
+C:\Users\EB-IT-Hp\Documents\Visual Studio 2010\Projects\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales_Automation_Distributor_System.frm_UserDetails.resources
+C:\Users\EB-IT-Hp\Documents\Visual Studio 2010\Projects\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales_Automation_Distributor_System.Properties.Resources.resources
+C:\Users\EB-IT-Hp\Documents\Visual Studio 2010\Projects\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EB-IT-Hp\Documents\Visual Studio 2010\Projects\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EB-IT-Hp\Documents\Visual Studio 2010\Projects\Sales Automation Distributor System\Sales Automation Distributor System\bin\Debug\Sales Automation Distributor System.exe
+C:\Users\EB-IT-Hp\Documents\Visual Studio 2010\Projects\Sales Automation Distributor System\Sales Automation Distributor System\bin\Debug\Sales Automation Distributor System.pdb
+C:\Users\EB-IT-Hp\Documents\Visual Studio 2010\Projects\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales Automation Distributor System.exe
+C:\Users\EB-IT-Hp\Documents\Visual Studio 2010\Projects\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales Automation Distributor System.pdb
+D:\Applications\2017.02.21\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales Automation Distributor System.exe
+D:\Applications\2017.02.21\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales Automation Distributor System.pdb
+D:\Applications\2017.02.21\Sales Automation Distributor System\Sales Automation Distributor System\bin\Debug\Sales Automation Distributor System.exe
+D:\Applications\2017.02.21\Sales Automation Distributor System\Sales Automation Distributor System\bin\Debug\Sales Automation Distributor System.pdb
+D:\Applications\2017.02.21\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales Automation Distributor System.csprojResolveAssemblyReference.cache
+D:\Applications\2017.02.21\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales_Automation_Distributor_System.frm_Login.resources
+D:\Applications\2017.02.21\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales_Automation_Distributor_System.frm_UserDetails.resources
+D:\Applications\2017.02.21\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales_Automation_Distributor_System.Properties.Resources.resources
+D:\Applications\2017.02.21\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales_Automation_Distributor_System.Report_Tool.resources
+D:\Applications\2017.02.21\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales Automation Distributor System.csproj.GenerateResource.Cache
+D:\Applications\2017.02.21 - NR\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales Automation Distributor System.exe
+D:\Applications\2017.02.21 - NR\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales Automation Distributor System.pdb
+D:\Applications\2017.02.21 - NR\Sales Automation Distributor System\Sales Automation Distributor System\bin\Debug\Sales Automation Distributor System.exe
+D:\Applications\2017.02.21 - NR\Sales Automation Distributor System\Sales Automation Distributor System\bin\Debug\Sales Automation Distributor System.pdb
+D:\Applications\2017.02.21 - NR\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales Automation Distributor System.csprojResolveAssemblyReference.cache
+D:\Applications\2017.02.21 - NR\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales_Automation_Distributor_System.frm_Login.resources
+D:\Applications\2017.02.21 - NR\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales_Automation_Distributor_System.frm_UserDetails.resources
+D:\Applications\2017.02.21 - NR\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales_Automation_Distributor_System.Properties.Resources.resources
+D:\Applications\2017.02.21 - NR\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales_Automation_Distributor_System.Report_Tool.resources
+D:\Applications\2017.02.21 - NR\Sales Automation Distributor System\Sales Automation Distributor System\obj\x86\Debug\Sales Automation Distributor System.csproj.GenerateResource.Cache

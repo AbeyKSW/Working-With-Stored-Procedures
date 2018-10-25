@@ -1,0 +1,1 @@
+This project is to demonstrate how to communicate with the database with using Stored Procedures
